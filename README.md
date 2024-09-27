@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://tenor.com/tr/view/codelikeagirl-gif-22766705" width="200"/>
+  <img src="https://media1.tenor.com/m/2SeTinGEKNQAAAAd/codelikeagirl.gif" width="200"/>
 </div>
 
 
